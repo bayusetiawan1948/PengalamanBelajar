@@ -1,6 +1,6 @@
 # PengalamanBelajar
 
-Repository Ini Berisi Pengalaman Belajar di Dicoding
+Repository Ini Berisi Pengalaman Belajar di Dicoding pada branch development
 
 
 **14 Juni 2021**  
